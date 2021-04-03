@@ -46,7 +46,7 @@ public class WonderWorld {
 
         System.out.println("Придумайте имя Игроку");
 
-        return br.readLine();;
+        return br.readLine();
     }
 
     public static void fillMenu (){
